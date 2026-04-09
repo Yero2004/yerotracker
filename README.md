@@ -15,4 +15,4 @@ A Python-based meal tracking application developed to practice data persistence 
 - JSON (data storage)
 
 ## Notes
-This project was built as a learning experience to understand how to manage user data, store it persistently, and display it in an organized and interactive way.# yerotracker
+This project was built as a learning experience to understand how to manage user data, store it persistently, and display it in an organized and interactive way.
